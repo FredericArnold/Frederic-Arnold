@@ -1,4 +1,4 @@
-# Frederic-Arnold
+# Frederic Arnold
 
 <h2> S'lut, je me présente Arnold Frederic mais vous pouvez m'appeler Fred</h2>
 
