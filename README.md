@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Eternel étudiant de la vie et surtout de la conception & Développement de sites et d'applications web.
 - 🎓 &nbsp; J'ai fait mes classes de Dev à la 3W Academy dans un cursus de Master de Developpeur Concepteur d'applications.
 - 💼 &nbsp; J'ai bossé ces 3 dernières années en tant que Dev Fullstack autant en entreprise qu'en Freelance.
-- 🌱 &nbsp; J'ai aussi quelques notions en Data analyse pour lesquelles j'ai suivi une courte formation chez Datascientest.
+- 🌱 &nbsp; J'ai aussi quelques notions en Data analyse pour lesquelles j'ai suivi une formation Bootcamp chez Datascientest.
 - ✍️ Pour la petite histoire, j'ai aussi un passsé dans la gestion commerciale et le Marketing il y'a un bon moment mais les réflexes de joueur d'équipe tout 
      tout en maitrisant mon autonomie sont toujours bien ancrés.
 
